@@ -9,3 +9,4 @@
 
 4、[Naive Bayes](https://github.com/PamelaXu/Pattern-Recognition/tree/main/Naive%20Bayes)
 
+5、[PCA](https://github.com/PamelaXu/Pattern-Recognition/tree/main/PCA)
